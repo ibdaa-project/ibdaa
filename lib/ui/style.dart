@@ -13,3 +13,5 @@ final answerStyle = const TextStyle(
 
 final outOfQuestionsTextStyle = const TextStyle(
     fontSize: 28, fontWeight: FontWeight.bold, color: Colors.red);
+// final outOfQuestionsTextStyle = const TextStyle(
+//     fontSize: 28, fontWeight: FontWeight.bold, color: Colors.red);
